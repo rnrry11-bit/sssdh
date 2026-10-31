@@ -1,0 +1,1088 @@
+{
+  "noun": {
+    "label": "명사",
+    "order": 1,
+    "form": "불변어",
+    "func": "체언",
+    "cards": [
+      {
+        "id": "noun-1",
+        "text": "마음",
+        "on": true
+      },
+      {
+        "id": "noun-2",
+        "text": "사랑",
+        "on": true
+      },
+      {
+        "id": "noun-3",
+        "text": "하늘",
+        "on": true
+      },
+      {
+        "id": "noun-4",
+        "text": "별",
+        "on": true
+      },
+      {
+        "id": "noun-5",
+        "text": "꽃",
+        "on": true
+      },
+      {
+        "id": "noun-6",
+        "text": "미소",
+        "on": true
+      },
+      {
+        "id": "noun-7",
+        "text": "노래",
+        "on": true
+      },
+      {
+        "id": "noun-8",
+        "text": "눈빛",
+        "on": true
+      },
+      {
+        "id": "noun-9",
+        "text": "편지",
+        "on": true
+      },
+      {
+        "id": "noun-10",
+        "text": "약속",
+        "on": true
+      },
+      {
+        "id": "noun-11",
+        "text": "오늘",
+        "on": true
+      },
+      {
+        "id": "noun-12",
+        "text": "겨울",
+        "on": true
+      },
+      {
+        "id": "noun-13",
+        "text": "바다",
+        "on": true
+      },
+      {
+        "id": "noun-14",
+        "text": "손",
+        "on": true
+      },
+      {
+        "id": "noun-15",
+        "text": "웃음",
+        "on": true
+      },
+      {
+        "id": "noun-16",
+        "text": "꿈",
+        "on": true
+      },
+      {
+        "id": "noun-17",
+        "text": "우산",
+        "on": true
+      },
+      {
+        "id": "noun-18",
+        "text": "햇살",
+        "on": true
+      },
+      {
+        "id": "noun-19",
+        "text": "친구",
+        "on": true
+      },
+      {
+        "id": "noun-20",
+        "text": "순간",
+        "on": true
+      }
+    ]
+  },
+  "pronoun": {
+    "label": "대명사",
+    "order": 2,
+    "form": "불변어",
+    "func": "체언",
+    "cards": [
+      {
+        "id": "pronoun-1",
+        "text": "나",
+        "on": true
+      },
+      {
+        "id": "pronoun-2",
+        "text": "너",
+        "on": true
+      },
+      {
+        "id": "pronoun-3",
+        "text": "우리",
+        "on": true
+      },
+      {
+        "id": "pronoun-4",
+        "text": "저",
+        "on": true
+      },
+      {
+        "id": "pronoun-5",
+        "text": "그대",
+        "on": true
+      },
+      {
+        "id": "pronoun-6",
+        "text": "당신",
+        "on": true
+      },
+      {
+        "id": "pronoun-7",
+        "text": "이것",
+        "on": true
+      },
+      {
+        "id": "pronoun-8",
+        "text": "그것",
+        "on": true
+      },
+      {
+        "id": "pronoun-9",
+        "text": "여기",
+        "on": true
+      },
+      {
+        "id": "pronoun-10",
+        "text": "누구",
+        "on": true
+      }
+    ]
+  },
+  "numeral": {
+    "label": "수사",
+    "order": 3,
+    "form": "불변어",
+    "func": "체언",
+    "cards": [
+      {
+        "id": "numeral-1",
+        "text": "하나",
+        "on": true
+      },
+      {
+        "id": "numeral-2",
+        "text": "둘",
+        "on": true
+      },
+      {
+        "id": "numeral-3",
+        "text": "셋",
+        "on": true
+      },
+      {
+        "id": "numeral-4",
+        "text": "열",
+        "on": true
+      },
+      {
+        "id": "numeral-5",
+        "text": "백",
+        "on": true
+      },
+      {
+        "id": "numeral-6",
+        "text": "천",
+        "on": true
+      },
+      {
+        "id": "numeral-7",
+        "text": "첫째",
+        "on": true
+      },
+      {
+        "id": "numeral-8",
+        "text": "둘째",
+        "on": true
+      },
+      {
+        "id": "numeral-9",
+        "text": "일곱",
+        "on": true
+      },
+      {
+        "id": "numeral-10",
+        "text": "만",
+        "on": true
+      }
+    ]
+  },
+  "determiner": {
+    "label": "관형사",
+    "order": 4,
+    "form": "불변어",
+    "func": "수식언",
+    "cards": [
+      {
+        "id": "determiner-1",
+        "text": "새",
+        "on": true
+      },
+      {
+        "id": "determiner-2",
+        "text": "헌",
+        "on": true
+      },
+      {
+        "id": "determiner-3",
+        "text": "이",
+        "on": true
+      },
+      {
+        "id": "determiner-4",
+        "text": "그",
+        "on": true
+      },
+      {
+        "id": "determiner-5",
+        "text": "저",
+        "on": true
+      },
+      {
+        "id": "determiner-6",
+        "text": "이런",
+        "on": true
+      },
+      {
+        "id": "determiner-7",
+        "text": "그런",
+        "on": true
+      },
+      {
+        "id": "determiner-8",
+        "text": "어떤",
+        "on": true
+      },
+      {
+        "id": "determiner-9",
+        "text": "무슨",
+        "on": true
+      },
+      {
+        "id": "determiner-10",
+        "text": "어느",
+        "on": true
+      },
+      {
+        "id": "determiner-11",
+        "text": "모든",
+        "on": true
+      },
+      {
+        "id": "determiner-12",
+        "text": "온갖",
+        "on": true
+      },
+      {
+        "id": "determiner-13",
+        "text": "갖은",
+        "on": true
+      },
+      {
+        "id": "determiner-14",
+        "text": "여러",
+        "on": true
+      },
+      {
+        "id": "determiner-15",
+        "text": "각",
+        "on": true
+      },
+      {
+        "id": "determiner-16",
+        "text": "다른",
+        "on": true
+      },
+      {
+        "id": "determiner-17",
+        "text": "첫",
+        "on": true
+      },
+      {
+        "id": "determiner-18",
+        "text": "한",
+        "on": true
+      },
+      {
+        "id": "determiner-19",
+        "text": "두",
+        "on": true
+      },
+      {
+        "id": "determiner-20",
+        "text": "세",
+        "on": true
+      },
+      {
+        "id": "determiner-21",
+        "text": "네",
+        "on": true
+      },
+      {
+        "id": "determiner-22",
+        "text": "몇",
+        "on": true
+      },
+      {
+        "id": "determiner-23",
+        "text": "아무",
+        "on": true
+      },
+      {
+        "id": "determiner-24",
+        "text": "온",
+        "on": true
+      },
+      {
+        "id": "determiner-25",
+        "text": "순",
+        "on": true
+      },
+      {
+        "id": "determiner-26",
+        "text": "맨",
+        "on": true
+      },
+      {
+        "id": "determiner-27",
+        "text": "옛",
+        "on": true
+      },
+      {
+        "id": "determiner-28",
+        "text": "웬",
+        "on": true
+      },
+      {
+        "id": "determiner-29",
+        "text": "단",
+        "on": true
+      },
+      {
+        "id": "determiner-30",
+        "text": "별",
+        "on": true
+      }
+    ]
+  },
+  "adverb": {
+    "label": "부사",
+    "order": 5,
+    "form": "불변어",
+    "func": "수식언",
+    "cards": [
+      {
+        "id": "adverb-1",
+        "text": "매우",
+        "on": true
+      },
+      {
+        "id": "adverb-2",
+        "text": "아주",
+        "on": true
+      },
+      {
+        "id": "adverb-3",
+        "text": "정말",
+        "on": true
+      },
+      {
+        "id": "adverb-4",
+        "text": "너무",
+        "on": true
+      },
+      {
+        "id": "adverb-5",
+        "text": "가장",
+        "on": true
+      },
+      {
+        "id": "adverb-6",
+        "text": "더",
+        "on": true
+      },
+      {
+        "id": "adverb-7",
+        "text": "꼭",
+        "on": true
+      },
+      {
+        "id": "adverb-8",
+        "text": "늘",
+        "on": true
+      },
+      {
+        "id": "adverb-9",
+        "text": "항상",
+        "on": true
+      },
+      {
+        "id": "adverb-10",
+        "text": "언제나",
+        "on": true
+      },
+      {
+        "id": "adverb-11",
+        "text": "이미",
+        "on": true
+      },
+      {
+        "id": "adverb-12",
+        "text": "아직",
+        "on": true
+      },
+      {
+        "id": "adverb-13",
+        "text": "벌써",
+        "on": true
+      },
+      {
+        "id": "adverb-14",
+        "text": "곧",
+        "on": true
+      },
+      {
+        "id": "adverb-15",
+        "text": "먼저",
+        "on": true
+      },
+      {
+        "id": "adverb-16",
+        "text": "함께",
+        "on": true
+      },
+      {
+        "id": "adverb-17",
+        "text": "같이",
+        "on": true
+      },
+      {
+        "id": "adverb-18",
+        "text": "천천히",
+        "on": true
+      },
+      {
+        "id": "adverb-19",
+        "text": "가만히",
+        "on": true
+      },
+      {
+        "id": "adverb-20",
+        "text": "활짝",
+        "on": true
+      },
+      {
+        "id": "adverb-21",
+        "text": "반짝반짝",
+        "on": true
+      },
+      {
+        "id": "adverb-22",
+        "text": "살며시",
+        "on": true
+      },
+      {
+        "id": "adverb-23",
+        "text": "몰래",
+        "on": true
+      },
+      {
+        "id": "adverb-24",
+        "text": "다시",
+        "on": true
+      },
+      {
+        "id": "adverb-25",
+        "text": "또",
+        "on": true
+      },
+      {
+        "id": "adverb-26",
+        "text": "마침내",
+        "on": true
+      },
+      {
+        "id": "adverb-27",
+        "text": "그리고",
+        "on": true
+      },
+      {
+        "id": "adverb-28",
+        "text": "제발",
+        "on": true
+      },
+      {
+        "id": "adverb-29",
+        "text": "부디",
+        "on": true
+      },
+      {
+        "id": "adverb-30",
+        "text": "어서",
+        "on": true
+      }
+    ]
+  },
+  "particle": {
+    "label": "조사",
+    "order": 6,
+    "form": "불변어",
+    "func": "관계언",
+    "cards": [
+      {
+        "id": "particle-1",
+        "text": "이",
+        "on": true
+      },
+      {
+        "id": "particle-2",
+        "text": "가",
+        "on": true
+      },
+      {
+        "id": "particle-3",
+        "text": "은",
+        "on": true
+      },
+      {
+        "id": "particle-4",
+        "text": "는",
+        "on": true
+      },
+      {
+        "id": "particle-5",
+        "text": "을",
+        "on": true
+      },
+      {
+        "id": "particle-6",
+        "text": "를",
+        "on": true
+      },
+      {
+        "id": "particle-7",
+        "text": "의",
+        "on": true
+      },
+      {
+        "id": "particle-8",
+        "text": "에",
+        "on": true
+      },
+      {
+        "id": "particle-9",
+        "text": "에서",
+        "on": true
+      },
+      {
+        "id": "particle-10",
+        "text": "에게",
+        "on": true
+      },
+      {
+        "id": "particle-11",
+        "text": "께",
+        "on": true
+      },
+      {
+        "id": "particle-12",
+        "text": "한테",
+        "on": true
+      },
+      {
+        "id": "particle-13",
+        "text": "로",
+        "on": true
+      },
+      {
+        "id": "particle-14",
+        "text": "으로",
+        "on": true
+      },
+      {
+        "id": "particle-15",
+        "text": "와",
+        "on": true
+      },
+      {
+        "id": "particle-16",
+        "text": "과",
+        "on": true
+      },
+      {
+        "id": "particle-17",
+        "text": "도",
+        "on": true
+      },
+      {
+        "id": "particle-18",
+        "text": "만",
+        "on": true
+      },
+      {
+        "id": "particle-19",
+        "text": "까지",
+        "on": true
+      },
+      {
+        "id": "particle-20",
+        "text": "부터",
+        "on": true
+      },
+      {
+        "id": "particle-21",
+        "text": "조차",
+        "on": true
+      },
+      {
+        "id": "particle-22",
+        "text": "마저",
+        "on": true
+      },
+      {
+        "id": "particle-23",
+        "text": "처럼",
+        "on": true
+      },
+      {
+        "id": "particle-24",
+        "text": "보다",
+        "on": true
+      },
+      {
+        "id": "particle-25",
+        "text": "만큼",
+        "on": true
+      },
+      {
+        "id": "particle-26",
+        "text": "이나",
+        "on": true
+      },
+      {
+        "id": "particle-27",
+        "text": "나",
+        "on": true
+      },
+      {
+        "id": "particle-28",
+        "text": "이랑",
+        "on": true
+      },
+      {
+        "id": "particle-29",
+        "text": "랑",
+        "on": true
+      },
+      {
+        "id": "particle-30",
+        "text": "하고",
+        "on": true
+      }
+    ]
+  },
+  "interjection": {
+    "label": "감탄사",
+    "order": 7,
+    "form": "불변어",
+    "func": "독립언",
+    "cards": [
+      {
+        "id": "interjection-1",
+        "text": "아",
+        "on": true
+      },
+      {
+        "id": "interjection-2",
+        "text": "와",
+        "on": true
+      },
+      {
+        "id": "interjection-3",
+        "text": "어머",
+        "on": true
+      },
+      {
+        "id": "interjection-4",
+        "text": "저기",
+        "on": true
+      },
+      {
+        "id": "interjection-5",
+        "text": "여보세요",
+        "on": true
+      },
+      {
+        "id": "interjection-6",
+        "text": "네",
+        "on": true
+      },
+      {
+        "id": "interjection-7",
+        "text": "아니요",
+        "on": true
+      },
+      {
+        "id": "interjection-8",
+        "text": "글쎄",
+        "on": true
+      },
+      {
+        "id": "interjection-9",
+        "text": "자",
+        "on": true
+      },
+      {
+        "id": "interjection-10",
+        "text": "앗",
+        "on": true
+      }
+    ]
+  },
+  "verb": {
+    "label": "동사",
+    "order": 8,
+    "form": "가변어",
+    "func": "용언",
+    "cards": [
+      {
+        "id": "verb-1",
+        "stem": "사랑하",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "verb-2",
+        "stem": "좋아하",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "verb-3",
+        "stem": "기다리",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "verb-4",
+        "stem": "보",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "verb-5",
+        "stem": "만나",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "verb-6",
+        "stem": "웃",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "verb-7",
+        "stem": "주",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "verb-8",
+        "stem": "안",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "verb-9",
+        "stem": "가",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "verb-10",
+        "stem": "오",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "verb-11",
+        "stem": "먹",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "verb-12",
+        "stem": "쓰",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "verb-13",
+        "stem": "보내",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "verb-14",
+        "stem": "잡",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "verb-15",
+        "stem": "믿",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "verb-16",
+        "stem": "지키",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "verb-17",
+        "stem": "생각하",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "verb-18",
+        "stem": "고백하",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "verb-19",
+        "stem": "선물하",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "verb-20",
+        "stem": "기억하",
+        "ending": "다",
+        "on": true
+      }
+    ]
+  },
+  "adjective": {
+    "label": "형용사",
+    "order": 9,
+    "form": "가변어",
+    "func": "용언",
+    "cards": [
+      {
+        "id": "adjective-1",
+        "stem": "예쁘",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-2",
+        "stem": "좋",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-3",
+        "stem": "크",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-4",
+        "stem": "작",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-5",
+        "stem": "따뜻하",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-6",
+        "stem": "달콤하",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-7",
+        "stem": "환하",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-8",
+        "stem": "행복하",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-9",
+        "stem": "소중하",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-10",
+        "stem": "진실하",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-11",
+        "stem": "멋지",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-12",
+        "stem": "착하",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-13",
+        "stem": "밝",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-14",
+        "stem": "맑",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-15",
+        "stem": "깊",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-16",
+        "stem": "높",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-17",
+        "stem": "넓",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-18",
+        "stem": "길",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-19",
+        "stem": "많",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-20",
+        "stem": "슬프",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-21",
+        "stem": "기쁘",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-22",
+        "stem": "바쁘",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-23",
+        "stem": "아프",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-24",
+        "stem": "낮",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-25",
+        "stem": "같",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-26",
+        "stem": "고요하",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-27",
+        "stem": "든든하",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-28",
+        "stem": "포근하",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-29",
+        "stem": "다정하",
+        "ending": "다",
+        "on": true
+      },
+      {
+        "id": "adjective-30",
+        "stem": "순수하",
+        "ending": "다",
+        "on": true
+      }
+    ]
+  },
+  "copula": {
+    "label": "서술격 조사",
+    "order": 10,
+    "form": "가변어",
+    "func": "관계언",
+    "cards": [
+      {
+        "id": "copula-1",
+        "stem": "이",
+        "ending": "다",
+        "on": true
+      }
+    ]
+  }
+}
